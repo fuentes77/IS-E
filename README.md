@@ -8,6 +8,9 @@ Hallo Zusammen (dieses Readme wird laufend erweitert).
 
 
 
+##Einstellung
+
+
 %CATALINA_HOME%\bin\startup.bat
 %CATALINA_HOME%\bin\shutdown.bat
 
