@@ -60,6 +60,10 @@
 		%>
 			<li><a href="login.jsp">Einloggen</a></li>
 			<li><a href="register.jsp">Registration</a></li>
+		  	<li> <a href="offerFlight.jsp"> Flug anbieten </a></li>
+		  <li> <a href="updateFlight.jsp"> Flug bearbeiten </a></li>
+		  <li> <a href="deleteFlight.jsp"> Flug löschen </a></li>
+
 		<%
 		}
 		else{
@@ -78,3 +82,6 @@
    
   </div>
   <div id="content">
+
+  </div>
+</div>

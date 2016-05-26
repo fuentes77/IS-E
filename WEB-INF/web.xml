@@ -17,6 +17,33 @@
         <url-pattern>/einloggen</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>OfferFlight</servlet-name>
+        <servlet-class>ise.servlets.OfferFlight</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OfferFlight</servlet-name>
+        <url-pattern>/offerFlight</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DeleteFlight</servlet-name>
+        <servlet-class>ise.servlets.DeleteFlight</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteFlight</servlet-name>
+        <url-pattern>/deleteFlight</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UpdateFlight</servlet-name>
+        <servlet-class>ise.servlets.UpdateFlight</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdateFlight</servlet-name>
+        <url-pattern>/updateFlight</url-pattern>
+    </servlet-mapping>
+
 	<welcome-file-list>
 		<welcome-file>index.jsp</welcome-file>
 		<welcome-file>header.jsp</welcome-file>
