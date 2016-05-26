@@ -64,6 +64,7 @@
 		}
 		else{
 		%>
+		
 			<li><a href="flugbuchen.jsp">Flug buchen</a></li>
 			<li><a href="logout.jsp">Ausloggen</a></li>
 		<%
