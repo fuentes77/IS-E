@@ -1,0 +1,19 @@
+1 -> du darf nicht in html SQL code verwenden . das ist scheiße 
+2-> es wäre besser genau wie ich gemacht habe , also ein Datenbankmanagement , die alle mit Datenbank verbenden 
+3 -> es wäre super wenn Ihr mit Session oder Cookies arbeiten 
+4- > In UserManagement , soll alle methode von User verwalten also get all user , usersuchen by Id oder By Username usw.. 
+5-> bitte in Servlet auch kein DB Direkt verbunden weil HTML und Servlet ist mit User Dirket verbunden. 
+
+6-> bitte erstellen Sie ein ORACLE DB von dein DBS Konto also wie folgenden 
+
+	ssh a......@almighty.cs.univie.ac.at 
+	dein kennwort 
+	
+	sqlplus 
+	dein username 
+	dein password 
+	
+	
+	danach erstellen Sie alle SQL also alle table (create) und deine Sequence und triger 
+	
+	
